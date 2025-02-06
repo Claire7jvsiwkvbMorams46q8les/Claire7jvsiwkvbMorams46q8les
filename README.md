@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm Claire7jvsiwkvbMorams46q8les
 
-<!--
-**Claire7jvsiwkvbMorams46q8les/Claire7jvsiwkvbMorams46q8les** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎣 🏸 🎮 Dedicated to mastering developer tools 🎣 🏸 🎮
 
-Here are some ideas to get you started:
+## About Me
+🛶 🎱 🎾 🔥 Interested in artificial intelligence 🛶 🎱 🎾 🔥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🏄 🥋 Dedicated to mastering frameworks 🏄 🥋
+
+### Fun Facts
+🥁 💻 🏏 🎯 A fan of technologies 🥁 💻 🏏 🎯
+
+---
+🌈 🚵 🛹 🚴 🏏 Thanks for visiting my profile! 🎯 🎰 🌍 🎱 🏸
